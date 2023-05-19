@@ -5,7 +5,7 @@
 
 [![Twitter: Zhaida](https://img.shields.io/twitter/follow/Zhaida?style=social)](https://twitter.com/ZhaidaCC)
 [![Linkedin: ZhaidaCazasola](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhaida/)](https://www.linkedin.com/in/zhaida/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=GitHub&style=social)](https://github.com/Thaiane)
+[![GitHub Zhaida](https://img.shields.io/github/followers/zhaida?label=GitHub&style=social)](https://github.com/zka21)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
