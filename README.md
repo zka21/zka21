@@ -1,6 +1,6 @@
 <h2> Hi, I'm Zhaida! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Frontend Developer at <a href="https://www.laboratoria.la/">Laboratoria</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
+<p><em>Frontend Developer<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: Zhaida](https://img.shields.io/twitter/follow/Zhaida?style=social)](https://twitter.com/ZhaidaCC)
@@ -13,6 +13,5 @@
 ```javascript
 const Zhaida = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Firebase],
-  tools: [Node, Jest],
+  code: [Javascript, HTML, CSS
 }
